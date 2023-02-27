@@ -1,0 +1,24 @@
+.topbarLink {
+  display: flex;
+  justify-content: space-around;
+  width: 30%;
+  align-items: center;
+  transform: translateX(100px);
+}
+.LinkItem {
+  font-size: 55px;
+
+  height: 100%;
+  width: 100%;
+  font-size: 200px;
+}
+.SearchBar {
+  transform: translate(75px);
+}
+
+.TopbarRight {
+  margin-right: 50px;
+  transform: translateX(-12px);
+  display: flex;
+  justify-content: space-between;
+}

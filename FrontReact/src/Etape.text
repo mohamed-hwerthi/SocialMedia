@@ -1,0 +1,54 @@
+1 :organiser topar components 
+2 : organiser rightBar componenent 
+3 : organiser leftBar componenent
+4 : organiser le feed (el wost )
+16/12/2022 : 
+          *un peu de design sur le sideBar:+++
+          *complete the share componenent : +++
+          *complete the post componenent : 
+          *complete the feed componenent :
+
+
+
+17/12/2022 : 
+           *complete the post componenent : 
+           *complete the feed componenent : 
+           *complete the rightbar componenent : 
+18/12/2022 : 
+       *complete rightbar with getting profile online+++
+       *like and dislike fonctionality : si cliquer like increase sinon decrease +++
+       *debuter avec la page profile  : 
+21/12/2022 : 
+         *completer la page profile 
+         pc ne marche pas 
+
+22/12/2022 : 
+        *completer profile page 
+        *create login page : 
+23/12/2022 : 
+          *create template register page  : +++
+          *creating routing between pages  : +++
+          *working with api  in the profile page  : 
+                --getting timeLinepost : like  , dislike 
+                --getting user friends in profile and home page 
+                --getting user all posts in profile page 
+                --working with axios 
+
+26/12/2022 : 
+  api : getting timeLineposts : 
+  api : getting userAllPosts : 
+  api : getting user friends  : 
+  api : getting post
+  30/12/2022 : 
+   *feed api : 
+   *profile api : 
+
+les taches qui restent  : 
+        :getting usetimeLine posts :
+apres les examens   :
+1er jours :
+       -gerer les fichiers avec react node  : surtout les images  :
+       
+
+       1/15/2023 :
+          

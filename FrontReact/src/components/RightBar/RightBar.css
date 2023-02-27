@@ -1,0 +1,75 @@
+.rightbar {
+  flex: 3.5;
+  display: flex;
+  margin-top: 50px;
+}
+.birthdayImg {
+  width: 300px;
+  height: 200px;
+  margin: auto;
+  border-radius: 15px;
+}
+.rightBarWrapper {
+  padding: 20px 20px 0 0;
+}
+.rightbarOnline {
+  display: flex;
+  width: 50%;
+  height: 40px;
+  margin: auto;
+  -webkit-box-shadow: 0px 0px 16px -8px rgba(0, 0, 0, 0.68);
+  box-shadow: 0px 0px 16px -8px rgba(0, 0, 0, 0.68);
+  border-radius: 10px;
+}
+.profilePicture {
+  width: 35px;
+  height: 35px;
+  border-radius: 17px;
+}
+.rightBarTop {
+  margin-bottom: 35px;
+}
+.UserInformation {
+  width: 300px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.userInformationTitle {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.infoItemKey {
+  font-weight: 500;
+  margin-right: 15px;
+  color: #555;
+}
+.infoItemValue {
+  font-weight: 300;
+}
+.userFriends {
+  display: flex;
+  flex-wrap: wrap;
+}
+.userProfilePicture {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+.userFriendName {
+  transform: translateY(-10px);
+  font-weight: 400;
+  margin-right: 15px;
+  color: black;
+
+  margin: 10px;
+}
+.userFriend {
+  width: 100px;
+  cursor: pointer;
+  margin-left: 20px;
+}

@@ -1,0 +1,48 @@
+.Share {
+  height: 170px;
+  width: 100%;
+  -webkit-box-shadow: 0px 0px 16px -8px rgba(0, 0, 0, 0.68);
+  box-shadow: 0px 0px 16px -8px rgba(0, 0, 0, 0.68);
+  border-radius: 10px;
+  margin-top: 50px;
+}
+.ShareWrapper {
+  padding: 10px;
+}
+.ShareTop {
+  display: flex;
+  align-items: center;
+}
+.ShareProfilePicture {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+}
+.ShareInput {
+  border: none;
+  width: 80%;
+}
+.ShareInput:focus {
+  outline: none;
+  border: none;
+}
+.ShareHr {
+  border-top: 2px solid skyblue;
+  padding-top: 15px;
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  display: flex;
+}
+.ShareOptions {
+  display: flex;
+  margin-left: 20px;
+}
+.ShareOption {
+  display: flex;
+  align-items: center;
+  margin-right: 25px;
+  cursor: pointer; /* si vous mettez le curseur  , il va changer de forme et pointer*/
+}
