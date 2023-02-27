@@ -1,0 +1,19 @@
+
+---timestamps  : compteur de temps utilisé en js afin de faciliter les calcules du temps  : 
+dans notre cas  : elle va afficher quand un user is updated or created :  
+---express.json() : c'est une focntion qui se traite dans un   middelweare pour faire une analyse de la 
+requette  , basé sur le body parser .
+
+
+--status 403 : le serveur comprend la requette mais refuse de l'autoriser 
+--status 500 : le serveur rencontre un probleme pour comprendre la requette 
+--status 200 : le serveur comprend la requette mais il ne l'autorise pas.
+--helmet  : module ou package qui permet de securier la requette en lui ajoutant des antetes 
+--morgan  : module qui permet de donner plus d'info sur chaque requette .
+--asynch  : await is very important   ; without await in a asynhcrounes funtions  , it will be many trouble
+--spread operator  : i7ell array and set on items 
+--findOne : The findOne() method returns the first occurrence in the selection 
+--find : retourner tous les occurences avec une condition bien determiné ou sans consitions 
+--multer : package qui nous permet de gerrer les fichers entrant dans les requettes http
+
+
